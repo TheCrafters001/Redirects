@@ -7,7 +7,7 @@
         RichTextBox1.Text = "<!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv=""Refresh"" content=""3;URL=""" & TextBox1.Text & """>
+    <meta http-equiv=""Refresh"" content=""3;URL=" & TextBox1.Text & """>
     <meta charset=""UTF-8"">
     <title>Redirecting...</title>
     <meta name=""description"" content=""Redirecting Service"" >
