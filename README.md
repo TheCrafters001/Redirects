@@ -1,3 +1,3 @@
 # Redirects
 
-[Redirects for my website](http://r.thecrafters001.ga/)
+[Redirects for my website](http://thecrafters001.github.io/Redirects/)
